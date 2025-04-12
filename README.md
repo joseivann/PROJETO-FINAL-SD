@@ -3,10 +3,10 @@ Projeto final da disciplina de SD (CIn-UFPE)
 
 # INTEGRANTES DA EQUIPE
 
-- Andre Luiz Vieira de Lima Rodrigues #<alvlr>
-- josé Ivan Xisto Vilela Júnior #<jixvj>
-- Hugo Jose Bento da Cunha #<hjbc>
-- Lucas Mateus dos Santos Arruda #<lmsa2>
+- Andre Luiz Vieira de Lima Rodrigues 
+- josé Ivan Xisto Vilela Júnior 
+- Hugo Jose Bento da Cunha 
+- Lucas Mateus dos Santos Arruda 
 
 
 # OBJETIVO
