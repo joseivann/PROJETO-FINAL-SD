@@ -8,13 +8,9 @@ Projeto final da disciplina de SD (CIn-UFPE)
 - Hugo Jose Bento da Cunha 
 - Lucas Mateus dos Santos Arruda 
 
-
 # OBJETIVO
 
-- Modelar e simular em Verilog um microprocessador MIPS que seja capaz de executar um programa que implemente uma função relacionada à temática da sua equipe. Este projeto integrará os conhecimentos adquiridos ao longo da disciplina, abrangendo desde a lógica digital até a microarquitetura de um processador.
-- Programa escolhido será um sistema de alarme simples
-- Software escrito com a linguagem Python.
-- Adaptado para a linguagem MIPS Assembly.
+- Desenvolver e simular, em Verilog, um microprocessador MIPS capaz de executar um programa que represente uma função relacionada à temática definida pela equipe — neste contexto, um sistema de alarme simples. Este projeto visa integrar os conhecimentos adquiridos ao longo da disciplina, abrangendo desde os fundamentos da lógica digital até a microarquitetura de um processador. O software foi inicialmente desenvolvido em Python e posteriormente adaptado para a linguagem MIPS Assembly.
 
 # Estudo da Arquitetura e Microarquitetura MIPS:
 
