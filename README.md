@@ -19,9 +19,8 @@ Projeto final da disciplina de SD (CIn-UFPE)
 ![sd](https://github.com/user-attachments/assets/880d5732-682f-47a3-8993-23c9b71960ba)
 
 
-# FERRAMENTAS E RECURSOS UTILIZADOS
+# Ferramentas e Recursos Empregados
 
-- Material de Apoio: Slides, Livro, anotações de aula e outros recursos fornecidos durante a disciplina.
-- Software de Simulação: Utilização de softwares como ModelSim ou Quartus para simulação e teste do microprocessador.
+- Recursos Didáticos: Foram utilizados slides, o livro-texto da disciplina, anotações realizadas em aula e demais materiais disponibilizados ao longo do curso como suporte teórico e prático.
 
-
+- Ambientes de Simulação: Empregaram-se ferramentas como ModelSim e Quartus para a simulação e verificação do funcionamento do microprocessador desenvolvido.
