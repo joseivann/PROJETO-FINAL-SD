@@ -1,4 +1,4 @@
-# PROJETO-SD
+# PROJETO-FINAL-SD
 Projeto final da disciplina de SD (CIn-UFPE)
 
 # Integrantes da equipe
